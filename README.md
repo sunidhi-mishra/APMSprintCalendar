@@ -12,6 +12,19 @@ A system-driven **Product Management learning tracker** to build consistency, tr
 
 ---
 
+## 👀 Preview
+
+### 📅 Calendar View
+![Calendar View](./assets/calendar-view.png)
+
+### 🧩 Day Detail Panel
+![Day Panel](./assets/day-panel.png)
+
+### ⚙️ Manage Sections
+![Manage Sections](./assets/manage-sections.png)
+
+---
+
 ## 🤖 Built with AI Assistance
 
 This project was developed using AI-assisted coding (Claude), where I:
