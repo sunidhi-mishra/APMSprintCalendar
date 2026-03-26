@@ -25,6 +25,18 @@ A system-driven **Product Management learning tracker** to build consistency, tr
 
 ---
 
+## 🚀 Live Demo
+
+Experience the product here:
+
+<p align="center">
+  <a href="https://claude.ai/public/artifacts/c1f205b5-bd7f-4c23-8732-9556a47da125">
+    <img src="https://img.shields.io/badge/View_Live_Demo-Open_App-00C853?style=for-the-badge">
+  </a>
+</p>
+
+---
+
 ## 🤖 Built with AI Assistance
 
 This project was developed using AI-assisted coding (Claude), where I:
