@@ -37,16 +37,10 @@ AI was used as a tool — the product thinking, logic, and structure were driven
 
 ---
 
-##🎯 Goal
+## 🎯 Goal
 
 Help aspiring PMs turn learning into a structured system, not random effort.
 
 ---
 
-# ✅ Why this works
 
-- Super **easy to read (10–15 sec scan)**
-- Shows **PM thinking instantly**
-- Keeps repo **clean and professional**
-
----
