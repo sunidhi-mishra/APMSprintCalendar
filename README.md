@@ -12,19 +12,6 @@ A system-driven **Product Management learning tracker** to build consistency, tr
 
 ---
 
-## 🧠 Framework
-
-```mermaid
-flowchart LR
-A[Problem] --> B[Root Cause]
-B --> C[Workflow]
-C --> D[Hypothesis]
-D --> E[Experiment]
-E --> F[Insights]
-F --> G[Iteration]
-```
----
-
 ## 🤖 Built with AI Assistance
 
 This project was developed using AI-assisted coding (Claude), where I:
